@@ -1,0 +1,11 @@
+C:\Users\Madelen\Documents\Visual Studio 2017\Projects\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp2.1\ConsoleApp17.csprojAssemblyReference.cache
+C:\Users\Madelen\Documents\Visual Studio 2017\Projects\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp2.1\ConsoleApp17.csproj.CoreCompileInputs.cache
+C:\Users\Madelen\Documents\Visual Studio 2017\Projects\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp2.1\ConsoleApp17.AssemblyInfoInputs.cache
+C:\Users\Madelen\Documents\Visual Studio 2017\Projects\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp2.1\ConsoleApp17.AssemblyInfo.cs
+C:\Users\Madelen\Documents\Visual Studio 2017\Projects\ConsoleApp17\ConsoleApp17\bin\Debug\netcoreapp2.1\ConsoleApp17.deps.json
+C:\Users\Madelen\Documents\Visual Studio 2017\Projects\ConsoleApp17\ConsoleApp17\bin\Debug\netcoreapp2.1\ConsoleApp17.runtimeconfig.json
+C:\Users\Madelen\Documents\Visual Studio 2017\Projects\ConsoleApp17\ConsoleApp17\bin\Debug\netcoreapp2.1\ConsoleApp17.runtimeconfig.dev.json
+C:\Users\Madelen\Documents\Visual Studio 2017\Projects\ConsoleApp17\ConsoleApp17\bin\Debug\netcoreapp2.1\ConsoleApp17.dll
+C:\Users\Madelen\Documents\Visual Studio 2017\Projects\ConsoleApp17\ConsoleApp17\bin\Debug\netcoreapp2.1\ConsoleApp17.pdb
+C:\Users\Madelen\Documents\Visual Studio 2017\Projects\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp2.1\ConsoleApp17.dll
+C:\Users\Madelen\Documents\Visual Studio 2017\Projects\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp2.1\ConsoleApp17.pdb
